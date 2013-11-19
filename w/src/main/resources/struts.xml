@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+    <!--<constant name="struts.devMode" value="false"/>-->
+    <package name="basicstruts2" extends="struts-default">
+        <default-action-ref name="nopage"/>
+        <global-results>
+            <result name="error.html">/error.html</result>
+        </global-results>
+        <global-exception-mappings>
+            <exception-mapping exception="java.lang.Error" result="error.html"></exception-mapping>
+        </global-exception-mappings>
+        <action name="indexx">
+            <result>/index.jsp</result>
+        </action>
+        <action name="nopage">
+            <result>/m//nopage.html</result>
+        </action>
+    </package>
+</struts>

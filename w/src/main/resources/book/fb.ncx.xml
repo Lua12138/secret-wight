@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC
+        "-//NISO//DTD ncx 2005-1//EN"
+        "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1"
+     xml:lang="en-US"
+     xmlns="http://www.daisy.org/z3986/2005/ncx/">
+    <head>
+        <!-- The following four metadata items are required for all
+            NCX documents, including those conforming to the relaxed
+            constraints of OPS 2.0 -->
+        <meta name="dtb:uid" content="51037e82-03ff-11dd-9fbb-0018f369440e"/>
+        <meta name="dtb:depth" content="1"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+        <meta name="provider" content="www.cnepub.com"/>
+        <meta name="builder" content="epubBuilder present by www.cnepub.com"/>
+        <meta name="right"
+              content="该文档由epubBuilder生成。epubBuilder为掌上书苑（www.cnepub.com)提供的epub制作工具，仅供个人交流与学习使用。在未获得掌上书苑的商业授权前，不得用于任何商业用途。"/>
+    </head>
+    <docTitle>
+        <text>若星汉天空</text>
+    </docTitle>
+    <docAuthor>
+        <text>今何在</text>
+    </docAuthor>
+    <navMap>
+        <navPoint id="coverpage" playOrder="0">
+            <navLabel>
+                <text>封面</text>
+            </navLabel>
+            <content src="../html/coverpage.html"/>
+        </navPoint>
+        <navPoint id="chapter2" playOrder="1">
+            <navLabel>
+                <text>关于若星汉古卷</text>
+            </navLabel>
+            <content src="../html/chapter2.html"/>
+        </navPoint>
+        <navPoint id="chapter3" playOrder="2">
+            <navLabel>
+                <text>人物介绍</text>
+            </navLabel>
+            <content src="../html/chapter3.html"/>
+        </navPoint>
+        <navPoint id="chapter4" playOrder="3">
+            <navLabel>
+                <text>故事之前</text>
+            </navLabel>
+            <content src="../html/chapter4.html"/>
+        </navPoint>
+        <navPoint id="chapter64" playOrder="4">
+            <navLabel>
+                <text>第一部 魔王的另一种结局</text>
+            </navLabel>
+            <content src="../html/chapter64.html"/>
+            <navPoint id="chapter5" playOrder="5">
+                <navLabel>
+                    <text>第零章 关于魔王的真面目</text>
+                </navLabel>
+                <content src="../html/chapter5.html"/>
+            </navPoint>
+            <navPoint id="chapter6" playOrder="6">
+                <navLabel>
+                    <text>第一章 就要远行</text>
+                </navLabel>
+                <content src="../html/chapter6.html"/>
+            </navPoint>
+            <navPoint id="chapter7" playOrder="7">
+                <navLabel>
+                    <text>第二章 看到未来的人</text>
+                </navLabel>
+                <content src="../html/chapter7.html"/>
+            </navPoint>
+            <navPoint id="chapter8" playOrder="8">
+                <navLabel>
+                    <text>第三章 不可能完成的使命</text>
+                </navLabel>
+                <content src="../html/chapter8.html"/>
+            </navPoint>
+            <navPoint id="chapter9" playOrder="9">
+                <navLabel>
+                    <text>第四章 拯救歌手罗恩</text>
+                </navLabel>
+                <content src="../html/chapter9.html"/>
+            </navPoint>
+            <navPoint id="chapter10" playOrder="10">
+                <navLabel>
+                    <text>第五章 罗恩与康德的美丽奇遇</text>
+                </navLabel>
+                <content src="../html/chapter10.html"/>
+            </navPoint>
+            <navPoint id="chapter11" playOrder="11">
+                <navLabel>
+                    <text>第六章 冒险组队</text>
+                </navLabel>
+                <content src="../html/chapter11.html"/>
+            </navPoint>
+            <navPoint id="chapter12" playOrder="12">
+                <navLabel>
+                    <text>第七章 看见了魔王</text>
+                </navLabel>
+                <content src="../html/chapter12.html"/>
+            </navPoint>
+            <navPoint id="chapter13" playOrder="13">
+                <navLabel>
+                    <text>第八章 云迪的心事</text>
+                </navLabel>
+                <content src="../html/chapter13.html"/>
+            </navPoint>
+            <navPoint id="chapter14" playOrder="14">
+                <navLabel>
+                    <text>第九章 惊恐的长夜</text>
+                </navLabel>
+                <content src="../html/chapter14.html"/>
+            </navPoint>
+            <navPoint id="chapter15" playOrder="15">
+                <navLabel>
+                    <text>第十章 她将与你在一起</text>
+                </navLabel>
+                <content src="../html/chapter15.html"/>
+            </navPoint>
+            <navPoint id="chapter16" playOrder="16">
+                <navLabel>
+                    <text>第十一章 在地下</text>
+                </navLabel>
+                <content src="../html/chapter16.html"/>
+            </navPoint>
+            <navPoint id="chapter17" playOrder="17">
+                <navLabel>
+                    <text>第十二章 看得见的结局</text>
+                </navLabel>
+                <content src="../html/chapter17.html"/>
+            </navPoint>
+            <navPoint id="chapter18" playOrder="18">
+                <navLabel>
+                    <text>第十三章 魔王重来</text>
+                </navLabel>
+                <content src="../html/chapter18.html"/>
+            </navPoint>
+            <navPoint id="chapter19" playOrder="19">
+                <navLabel>
+                    <text>第十四章 雪山上的飞龙</text>
+                </navLabel>
+                <content src="../html/chapter19.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="chapter65" playOrder="20">
+            <navLabel>
+                <text>第二部 重返阳光之土</text>
+            </navLabel>
+            <content src="../html/chapter65.html"/>
+            <navPoint id="chapter20" playOrder="21">
+                <navLabel>
+                    <text>第十五章 难道与如果的难题</text>
+                </navLabel>
+                <content src="../html/chapter20.html"/>
+            </navPoint>
+            <navPoint id="chapter21" playOrder="22">
+                <navLabel>
+                    <text>第十六章 康德决心叛逃</text>
+                </navLabel>
+                <content src="../html/chapter21.html"/>
+            </navPoint>
+            <navPoint id="chapter22" playOrder="23">
+                <navLabel>
+                    <text>第十七章 死灵夜</text>
+                </navLabel>
+                <content src="../html/chapter22.html"/>
+            </navPoint>
+            <navPoint id="chapter23" playOrder="24">
+                <navLabel>
+                    <text>第十八章 魔族战歌</text>
+                </navLabel>
+                <content src="../html/chapter23.html"/>
+            </navPoint>
+            <navPoint id="chapter24" playOrder="25">
+                <navLabel>
+                    <text>第十九章 夜行者</text>
+                </navLabel>
+                <content src="../html/chapter24.html"/>
+            </navPoint>
+            <navPoint id="chapter25" playOrder="26">
+                <navLabel>
+                    <text>第二十章 重返阳光之土</text>
+                </navLabel>
+                <content src="../html/chapter25.html"/>
+            </navPoint>
+            <navPoint id="chapter26" playOrder="27">
+                <navLabel>
+                    <text>第二十一章 象个骑士一样去战斗</text>
+                </navLabel>
+                <content src="../html/chapter26.html"/>
+            </navPoint>
+            <navPoint id="chapter27" playOrder="28">
+                <navLabel>
+                    <text>第二十二章 选择道路</text>
+                </navLabel>
+                <content src="../html/chapter27.html"/>
+            </navPoint>
+            <navPoint id="chapter28" playOrder="29">
+                <navLabel>
+                    <text>第二十三章 迷宫</text>
+                </navLabel>
+                <content src="../html/chapter28.html"/>
+            </navPoint>
+            <navPoint id="chapter29" playOrder="30">
+                <navLabel>
+                    <text>第二十四章 蛇怪与闪电</text>
+                </navLabel>
+                <content src="../html/chapter29.html"/>
+            </navPoint>
+            <navPoint id="chapter30" playOrder="31">
+                <navLabel>
+                    <text>第二十五章 走出来的人</text>
+                </navLabel>
+                <content src="../html/chapter30.html"/>
+            </navPoint>
+            <navPoint id="chapter31" playOrder="32">
+                <navLabel>
+                    <text>第二十六章 飞龙的暴风</text>
+                </navLabel>
+                <content src="../html/chapter31.html"/>
+            </navPoint>
+            <navPoint id="chapter32" playOrder="33">
+                <navLabel>
+                    <text>第二十七章 巨轮转动</text>
+                </navLabel>
+                <content src="../html/chapter32.html"/>
+            </navPoint>
+            <navPoint id="chapter33" playOrder="34">
+                <navLabel>
+                    <text>第二十八章 黑衣人</text>
+                </navLabel>
+                <content src="../html/chapter33.html"/>
+            </navPoint>
+            <navPoint id="chapter34" playOrder="35">
+                <navLabel>
+                    <text>第二十九章 枯法卡宫</text>
+                </navLabel>
+                <content src="../html/chapter34.html"/>
+            </navPoint>
+            <navPoint id="chapter35" playOrder="36">
+                <navLabel>
+                    <text>第三十章 骨龙</text>
+                </navLabel>
+                <content src="../html/chapter35.html"/>
+            </navPoint>
+            <navPoint id="chapter36" playOrder="37">
+                <navLabel>
+                    <text>第三十一章 未来生于此刻</text>
+                </navLabel>
+                <content src="../html/chapter36.html"/>
+            </navPoint>
+            <navPoint id="chapter37" playOrder="38">
+                <navLabel>
+                    <text>第三十二章 你就是圣骑士</text>
+                </navLabel>
+                <content src="../html/chapter37.html"/>
+            </navPoint>
+            <navPoint id="chapter38" playOrder="39">
+                <navLabel>
+                    <text>第三十三章 无法料到</text>
+                </navLabel>
+                <content src="../html/chapter38.html"/>
+            </navPoint>
+            <navPoint id="chapter39" playOrder="40">
+                <navLabel>
+                    <text>第三十四章 初见与重逢</text>
+                </navLabel>
+                <content src="../html/chapter39.html"/>
+            </navPoint>
+            <navPoint id="chapter40" playOrder="41">
+                <navLabel>
+                    <text>第三十五章 死亡大潮</text>
+                </navLabel>
+                <content src="../html/chapter40.html"/>
+            </navPoint>
+            <navPoint id="chapter41" playOrder="42">
+                <navLabel>
+                    <text>第三十六章 相见在亡灵山谷</text>
+                </navLabel>
+                <content src="../html/chapter41.html"/>
+            </navPoint>
+            <navPoint id="chapter42" playOrder="43">
+                <navLabel>
+                    <text>第三十七章 没有选择</text>
+                </navLabel>
+                <content src="../html/chapter42.html"/>
+            </navPoint>
+            <navPoint id="chapter43" playOrder="44">
+                <navLabel>
+                    <text>第三十八章 到达</text>
+                </navLabel>
+                <content src="../html/chapter43.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="chapter66" playOrder="45">
+            <navLabel>
+                <text>第三部 于绝望中诞生</text>
+            </navLabel>
+            <content src="../html/chapter66.html"/>
+            <navPoint id="chapter44" playOrder="46">
+                <navLabel>
+                    <text>第三十九章 冷酷的心</text>
+                </navLabel>
+                <content src="../html/chapter44.html"/>
+            </navPoint>
+            <navPoint id="chapter45" playOrder="47">
+                <navLabel>
+                    <text>第四十章 世上最美的女子</text>
+                </navLabel>
+                <content src="../html/chapter45.html"/>
+            </navPoint>
+            <navPoint id="chapter46" playOrder="48">
+                <navLabel>
+                    <text>第四十一章 女神之泪</text>
+                </navLabel>
+                <content src="../html/chapter46.html"/>
+            </navPoint>
+            <navPoint id="chapter47" playOrder="49">
+                <navLabel>
+                    <text>第四十二章 仇恨的起源</text>
+                </navLabel>
+                <content src="../html/chapter47.html"/>
+            </navPoint>
+            <navPoint id="chapter48" playOrder="50">
+                <navLabel>
+                    <text>第四十三章 希望与绝望</text>
+                </navLabel>
+                <content src="../html/chapter48.html"/>
+            </navPoint>
+            <navPoint id="chapter49" playOrder="51">
+                <navLabel>
+                    <text>第四十四章 另一滴眼泪</text>
+                </navLabel>
+                <content src="../html/chapter49.html"/>
+            </navPoint>
+            <navPoint id="chapter50" playOrder="52">
+                <navLabel>
+                    <text>第四十五章 火浴</text>
+                </navLabel>
+                <content src="../html/chapter50.html"/>
+            </navPoint>
+            <navPoint id="chapter51" playOrder="53">
+                <navLabel>
+                    <text>第四十六章 在黎明前</text>
+                </navLabel>
+                <content src="../html/chapter51.html"/>
+            </navPoint>
+            <navPoint id="chapter52" playOrder="54">
+                <navLabel>
+                    <text>第四十七章 罗恩所得到的</text>
+                </navLabel>
+                <content src="../html/chapter52.html"/>
+            </navPoint>
+            <navPoint id="chapter53" playOrder="55">
+                <navLabel>
+                    <text>第四十八章 伏击</text>
+                </navLabel>
+                <content src="../html/chapter53.html"/>
+            </navPoint>
+            <navPoint id="chapter54" playOrder="56">
+                <navLabel>
+                    <text>第四十九章 魔种</text>
+                </navLabel>
+                <content src="../html/chapter54.html"/>
+            </navPoint>
+            <navPoint id="chapter55" playOrder="57">
+                <navLabel>
+                    <text>第五十章 守护</text>
+                </navLabel>
+                <content src="../html/chapter55.html"/>
+            </navPoint>
+            <navPoint id="chapter56" playOrder="58">
+                <navLabel>
+                    <text>第五十一章 遥远的辽雷草原</text>
+                </navLabel>
+                <content src="../html/chapter56.html"/>
+            </navPoint>
+            <navPoint id="chapter57" playOrder="59">
+                <navLabel>
+                    <text>第五十二章 诅咒与祈祷</text>
+                </navLabel>
+                <content src="../html/chapter57.html"/>
+            </navPoint>
+            <navPoint id="chapter58" playOrder="60">
+                <navLabel>
+                    <text>第五十三章 胜利者</text>
+                </navLabel>
+                <content src="../html/chapter58.html"/>
+            </navPoint>
+            <navPoint id="chapter59" playOrder="61">
+                <navLabel>
+                    <text>第五十四章 背叛与失去</text>
+                </navLabel>
+                <content src="../html/chapter59.html"/>
+            </navPoint>
+            <navPoint id="chapter60" playOrder="62">
+                <navLabel>
+                    <text>第五十五章 没有什么结局是注定的</text>
+                </navLabel>
+                <content src="../html/chapter60.html"/>
+            </navPoint>
+            <navPoint id="chapter61" playOrder="63">
+                <navLabel>
+                    <text>尾声</text>
+                </navLabel>
+                <content src="../html/chapter61.html"/>
+            </navPoint>
+        </navPoint>
+        <navPoint id="chapter62" playOrder="64">
+            <navLabel>
+                <text>外篇 最后一章也是第一章</text>
+            </navLabel>
+            <content src="../html/chapter62.html"/>
+        </navPoint>
+        <navPoint id="chapter63" playOrder="65">
+            <navLabel>
+                <text>后记</text>
+            </navLabel>
+            <content src="../html/chapter63.html"/>
+        </navPoint>
+    </navMap>
+</ncx>

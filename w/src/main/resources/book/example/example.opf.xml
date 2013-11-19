@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<!-- The items below to be supplied by the author are underlined. -->
+<!-- The package must have a unique identifier (BookId in this example) -->
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">
+    <!-- Metadata: The required metadata element is used to provide information about the publication as a whole. -->
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <!-- Title [mandatory]: The title of the publication. This is the title that will appear on the "Home" screen. -->
+        <dc:title>BookTitle</dc:title>
+        <!-- Language [mandatory]: the language of the publication. Some common language strings are:
+            "en" English
+            "en-us" English — USA
+            "en-gb" English — United Kingdom
+            "fr" French
+            "fr-ca" French — Canada
+            "de" German
+            "es" Spanish -->
+        <dc:language>en</dc:language>
+        <!-- Cover [mandatory]. The cover image must be specified below under <manifest> and referenced with the id given here under content. -->
+        <meta name="cover" content="BookCover"/>
+        <!-- Each book must have a unique uuid identifier. It can be generated at http://www.famkruithof.net/uuid/uuidgen. The id should be the package id specified above. -->
+        <dc:identifier id="BookId" opf:scheme="uuid">urn:uuid:efe839d0-4f4f-11e1-b86c-0800200c9a66</dc:identifier>
+        <!-- Creator [Mandatory]: The author of the book. For multiple authors, use multiple <dc:Creator> tags. Additional contributors whose contributions are secondary to those listed in creator elements should be named in contributor elements. -->
+        <dc:creator>Benthien, George</dc:creator>
+        <!-- Publisher [Mandatory]: Name of publisher or your name if self published -->
+        <dc:publisher>Benthien</dc:publisher>
+        <!-- Date [Mandatory]: Date of publication in YYYY-MM-DD format. (Days and month can be omitted).-->
+        <dc:date>2011-12-07</dc:date>
+        <!-- Subject [Optional]: A topic or key word. -->
+        <dc:subject>Reference</dc:subject>
+        <!-- Description [Optional]: A short description of the publication's content. -->
+        <dc:description>A short paragraph describing the publication …</dc:description>
+        <!-- Editor [Optional]
+        <dc:contributor opf:role="edt">Editor's Name</dc:contributor>
+        -->
+    </metadata>
+    <!-- Manifest [Mandatory]: The manifest provides a list of the files that are part of the publication (e.g. Content Documents, NCX table of contents, image files, CSS style sheets). The manifest element must contain one or more item elements with the following media-type attributes:
+        application/xhtml+xml  (HTML content files)
+        application/x-dtbncx+xml  (NCX table of contents)
+        text/css  (CSS style file)
+        image/jpeg  (JPEG image)
+        image/gif  (GIF image)
+        image/png  (PNG image) -->
+    <manifest>
+        <!-- HTML content files [mandatory] -->
+        <item id="tc" media-type="application/xhtml+xml" href="toc.html"></item>
+        <item id="intro" media-type="application/xhtml+xml" href="introduction.html"></item>
+        <item id="c1" media-type="application/xhtml+xml" href="chapter1.html"></item>
+        <item id="c2" media-type="application/xhtml+xml" href="chapter2.html"></item>
+        <item id="c3" media-type="application/xhtml+xml" href="chapter3.html"></item>
+        <item id="c4" media-type="application/xhtml+xml" href="chapter4.html"></item>
+        <item id="c5" media-type="application/xhtml+xml" href="chapter5.html"></item>
+        <!-- Image and style files-->
+        <item id="fig1" media-type="image/gif" href="Figure1.gif"></item>
+        <item id="fig2" media-type="image/jpeg" href="Figure2.jpg"></item>
+        <item id="MyStyle" media-type="text/css" href="style.css"></item>
+        <!-- NCX table of contents [mandatory] -->
+        <item id="MyNcx" media-type="application/x-dtbncx+xml" href="toc.ncx"></item>
+        <!-- Cover image [mandatory] -->
+        <item id="BookCover" media-type="image/jpg" href="cover.jpg"></item>
+        <!-- Cover page [optional] -->
+        <item id="cp" media-type="application/xhtml+xml" href="coverpg.html"></item>
+    </manifest>
+    <!-- Spine [Mandatory]: Following manifest, there must be one and only one spine element, which contains one or more itemref elements. Each itemref references the id of a document designated in the manifest. The order of the itemref elements organizes the associated content files into the linear reading order of the publication. The toc attribute refers to the id given to the NCX file specified in the manifest. -->
+    <spine toc="MyNcx">
+        <!-- the spine defines the linear reading order of the book -->
+        <itemref idref="cp"/>
+        <itemref idref="tc"/>
+        <itemref idref="intro"/>
+        <itemref idref="c1"/>
+        <itemref idref="c2"/>
+        <itemref idref="c3"/>
+        <itemref idref="c4"/>
+        <itemref idref="c5"/>
+    </spine>
+    <!-- Guide [Mandatory]: Within the package there may be one guide element, containing one or more reference elements. The guide element identifies fundamental structural components of the publication, to enable Reading Systems to provide convenient access to them. The Kindle reading system supports two special guide items which are both mandatory.
+    type="toc" [mandatory]: a link to the HTML table of contents
+    type="text" [mandatory]: a link to where the content of the book starts (typically after the front matter)
+    Kindle reading platforms need both the guide items to provide a consistent user experience to the user. It is good practice to include both a logical table of contents (NCX) and an HTML table of contents (made of hyperlinks). The NCX enables various advanced navigation features but the HTML table of contents can easily be discovered by the user by paging through the book. Both are useful. -->
+    <guide>
+        <reference type="cover" title="Cover" href="coverpg.html"></reference>
+        <reference type="toc" title="Table of Contents" href="toc.html"></reference>
+        <reference type="text" title="Beginning" href="intro.html"></reference>
+    </guide>
+</package>

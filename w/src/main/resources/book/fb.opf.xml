@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package version="2.0" unique-identifier="PrimaryID" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>若星汉天空</dc:title>
+        <dc:identifier opf:scheme="ISBN"></dc:identifier>
+        <dc:language>zh-CN</dc:language>
+        <dc:creator>今何在</dc:creator>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:description>
+            　　《若星汉天空》实体版只是一个阉割和开始和结局改造版，但实在比不上网络版的完全，今何在对网络版成为实体版的改造应该说是失败的，或者说是虎头蛇尾的改造，可能也是他最后并没有用心，以致于实体版在网络版基础上删去的段落和改变的结局使得这一版本完全脱离了逻辑和故事连贯性。
+            　　《若星汉天空》向我们展示的绝不是正义必胜，邪恶最终被埋葬的结局，当然也不是相反极端的邪恶吞没大地，世界陷入黑暗恐慌的结局。这点上作者设置的相当有意思。魔王和圣骑士，截然相反甚至是敌对的两种身份却被同时赋予给主人公康德，这是康德的宿命。康德的人生理想是打败魔族建功立业成为圣骑士，然而在故事的最初（姑且把康德的远行作为故事的最初吧），康德就失去了人类的肉体变成了亡灵，遗憾的是，他却还保留着人类的心志。在未来，圣骑士康德领导着银月光华军对抗着魔族，而康德同时还将成为魔王，为了抵制这个命运，云迪从未来来希望能改变康德的魔王宿命，百亚从未来来希望改变康德被打败的命运。亡灵的躯壳、人类的心灵、圣骑士的身份、魔王的力量，圣骑士还是魔王，都只是心灵和力量的选择。
+        </dc:description>
+        <dc:coverage></dc:coverage>
+        <dc:source>http://www.cnepub.com</dc:source>
+        <dc:date>2011-10-30</dc:date>
+        <dc:rights>本电子书由epubBuilder制作生成，欢迎访问http://www.cnepub.com分享交流海量电子书。
+            epubBuilder仅供交流使用，未经授权，不得用于商业用途。
+        </dc:rights>
+        <dc:subject></dc:subject>
+        <dc:contributor></dc:contributor>
+        <dc:type>[type]</dc:type>
+        <dc:format></dc:format>
+        <dc:relation></dc:relation>
+        <dc:builder>epubBuilder</dc:builder>
+        <dc:builder_version>3.1.10.12</dc:builder_version>
+        <meta name="cover" content="cover-image"/>
+    </metadata>
+    <manifest>
+        <!-- Content Documents -->
+        <item id="main-css" href="css/main.css" media-type="text/css"/>
+        <item id="coverpage" href="html/coverpage.html" media-type="application/xhtml+xml"/>
+        <item id="chapter2" href="html/chapter2.html" media-type="application/xhtml+xml"/>
+        <item id="chapter3" href="html/chapter3.html" media-type="application/xhtml+xml"/>
+        <item id="chapter4" href="html/chapter4.html" media-type="application/xhtml+xml"/>
+        <item id="chapter64" href="html/chapter64.html" media-type="application/xhtml+xml"/>
+        <item id="chapter5" href="html/chapter5.html" media-type="application/xhtml+xml"/>
+        <item id="chapter6" href="html/chapter6.html" media-type="application/xhtml+xml"/>
+        <item id="chapter7" href="html/chapter7.html" media-type="application/xhtml+xml"/>
+        <item id="chapter8" href="html/chapter8.html" media-type="application/xhtml+xml"/>
+        <item id="chapter9" href="html/chapter9.html" media-type="application/xhtml+xml"/>
+        <item id="chapter10" href="html/chapter10.html" media-type="application/xhtml+xml"/>
+        <item id="chapter11" href="html/chapter11.html" media-type="application/xhtml+xml"/>
+        <item id="chapter12" href="html/chapter12.html" media-type="application/xhtml+xml"/>
+        <item id="chapter13" href="html/chapter13.html" media-type="application/xhtml+xml"/>
+        <item id="chapter14" href="html/chapter14.html" media-type="application/xhtml+xml"/>
+        <item id="chapter15" href="html/chapter15.html" media-type="application/xhtml+xml"/>
+        <item id="chapter16" href="html/chapter16.html" media-type="application/xhtml+xml"/>
+        <item id="chapter17" href="html/chapter17.html" media-type="application/xhtml+xml"/>
+        <item id="chapter18" href="html/chapter18.html" media-type="application/xhtml+xml"/>
+        <item id="chapter19" href="html/chapter19.html" media-type="application/xhtml+xml"/>
+        <item id="chapter65" href="html/chapter65.html" media-type="application/xhtml+xml"/>
+        <item id="chapter20" href="html/chapter20.html" media-type="application/xhtml+xml"/>
+        <item id="chapter21" href="html/chapter21.html" media-type="application/xhtml+xml"/>
+        <item id="chapter22" href="html/chapter22.html" media-type="application/xhtml+xml"/>
+        <item id="chapter23" href="html/chapter23.html" media-type="application/xhtml+xml"/>
+        <item id="chapter24" href="html/chapter24.html" media-type="application/xhtml+xml"/>
+        <item id="chapter25" href="html/chapter25.html" media-type="application/xhtml+xml"/>
+        <item id="chapter26" href="html/chapter26.html" media-type="application/xhtml+xml"/>
+        <item id="chapter27" href="html/chapter27.html" media-type="application/xhtml+xml"/>
+        <item id="chapter28" href="html/chapter28.html" media-type="application/xhtml+xml"/>
+        <item id="chapter29" href="html/chapter29.html" media-type="application/xhtml+xml"/>
+        <item id="chapter30" href="html/chapter30.html" media-type="application/xhtml+xml"/>
+        <item id="chapter31" href="html/chapter31.html" media-type="application/xhtml+xml"/>
+        <item id="chapter32" href="html/chapter32.html" media-type="application/xhtml+xml"/>
+        <item id="chapter33" href="html/chapter33.html" media-type="application/xhtml+xml"/>
+        <item id="chapter34" href="html/chapter34.html" media-type="application/xhtml+xml"/>
+        <item id="chapter35" href="html/chapter35.html" media-type="application/xhtml+xml"/>
+        <item id="chapter36" href="html/chapter36.html" media-type="application/xhtml+xml"/>
+        <item id="chapter37" href="html/chapter37.html" media-type="application/xhtml+xml"/>
+        <item id="chapter38" href="html/chapter38.html" media-type="application/xhtml+xml"/>
+        <item id="chapter39" href="html/chapter39.html" media-type="application/xhtml+xml"/>
+        <item id="chapter40" href="html/chapter40.html" media-type="application/xhtml+xml"/>
+        <item id="chapter41" href="html/chapter41.html" media-type="application/xhtml+xml"/>
+        <item id="chapter42" href="html/chapter42.html" media-type="application/xhtml+xml"/>
+        <item id="chapter43" href="html/chapter43.html" media-type="application/xhtml+xml"/>
+        <item id="chapter66" href="html/chapter66.html" media-type="application/xhtml+xml"/>
+        <item id="chapter44" href="html/chapter44.html" media-type="application/xhtml+xml"/>
+        <item id="chapter45" href="html/chapter45.html" media-type="application/xhtml+xml"/>
+        <item id="chapter46" href="html/chapter46.html" media-type="application/xhtml+xml"/>
+        <item id="chapter47" href="html/chapter47.html" media-type="application/xhtml+xml"/>
+        <item id="chapter48" href="html/chapter48.html" media-type="application/xhtml+xml"/>
+        <item id="chapter49" href="html/chapter49.html" media-type="application/xhtml+xml"/>
+        <item id="chapter50" href="html/chapter50.html" media-type="application/xhtml+xml"/>
+        <item id="chapter51" href="html/chapter51.html" media-type="application/xhtml+xml"/>
+        <item id="chapter52" href="html/chapter52.html" media-type="application/xhtml+xml"/>
+        <item id="chapter53" href="html/chapter53.html" media-type="application/xhtml+xml"/>
+        <item id="chapter54" href="html/chapter54.html" media-type="application/xhtml+xml"/>
+        <item id="chapter55" href="html/chapter55.html" media-type="application/xhtml+xml"/>
+        <item id="chapter56" href="html/chapter56.html" media-type="application/xhtml+xml"/>
+        <item id="chapter57" href="html/chapter57.html" media-type="application/xhtml+xml"/>
+        <item id="chapter58" href="html/chapter58.html" media-type="application/xhtml+xml"/>
+        <item id="chapter59" href="html/chapter59.html" media-type="application/xhtml+xml"/>
+        <item id="chapter60" href="html/chapter60.html" media-type="application/xhtml+xml"/>
+        <item id="chapter61" href="html/chapter61.html" media-type="application/xhtml+xml"/>
+        <item id="chapter62" href="html/chapter62.html" media-type="application/xhtml+xml"/>
+        <item id="chapter63" href="html/chapter63.html" media-type="application/xhtml+xml"/>
+
+        <item id="ncx" href="misc/fb.ncx" media-type="application/x-dtbncx+xml"/>
+        <item id="css" href="css/main.css" media-type="text/css"/>
+        <item id="cover-image" href="image/cover.jpg" media-type="image/jpeg"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="coverpage" linear="yes"/>
+        <itemref idref="chapter2" linear="yes"/>
+        <itemref idref="chapter3" linear="yes"/>
+        <itemref idref="chapter4" linear="yes"/>
+        <itemref idref="chapter64" linear="yes"/>
+        <itemref idref="chapter5" linear="yes"/>
+        <itemref idref="chapter6" linear="yes"/>
+        <itemref idref="chapter7" linear="yes"/>
+        <itemref idref="chapter8" linear="yes"/>
+        <itemref idref="chapter9" linear="yes"/>
+        <itemref idref="chapter10" linear="yes"/>
+        <itemref idref="chapter11" linear="yes"/>
+        <itemref idref="chapter12" linear="yes"/>
+        <itemref idref="chapter13" linear="yes"/>
+        <itemref idref="chapter14" linear="yes"/>
+        <itemref idref="chapter15" linear="yes"/>
+        <itemref idref="chapter16" linear="yes"/>
+        <itemref idref="chapter17" linear="yes"/>
+        <itemref idref="chapter18" linear="yes"/>
+        <itemref idref="chapter19" linear="yes"/>
+        <itemref idref="chapter65" linear="yes"/>
+        <itemref idref="chapter20" linear="yes"/>
+        <itemref idref="chapter21" linear="yes"/>
+        <itemref idref="chapter22" linear="yes"/>
+        <itemref idref="chapter23" linear="yes"/>
+        <itemref idref="chapter24" linear="yes"/>
+        <itemref idref="chapter25" linear="yes"/>
+        <itemref idref="chapter26" linear="yes"/>
+        <itemref idref="chapter27" linear="yes"/>
+        <itemref idref="chapter28" linear="yes"/>
+        <itemref idref="chapter29" linear="yes"/>
+        <itemref idref="chapter30" linear="yes"/>
+        <itemref idref="chapter31" linear="yes"/>
+        <itemref idref="chapter32" linear="yes"/>
+        <itemref idref="chapter33" linear="yes"/>
+        <itemref idref="chapter34" linear="yes"/>
+        <itemref idref="chapter35" linear="yes"/>
+        <itemref idref="chapter36" linear="yes"/>
+        <itemref idref="chapter37" linear="yes"/>
+        <itemref idref="chapter38" linear="yes"/>
+        <itemref idref="chapter39" linear="yes"/>
+        <itemref idref="chapter40" linear="yes"/>
+        <itemref idref="chapter41" linear="yes"/>
+        <itemref idref="chapter42" linear="yes"/>
+        <itemref idref="chapter43" linear="yes"/>
+        <itemref idref="chapter66" linear="yes"/>
+        <itemref idref="chapter44" linear="yes"/>
+        <itemref idref="chapter45" linear="yes"/>
+        <itemref idref="chapter46" linear="yes"/>
+        <itemref idref="chapter47" linear="yes"/>
+        <itemref idref="chapter48" linear="yes"/>
+        <itemref idref="chapter49" linear="yes"/>
+        <itemref idref="chapter50" linear="yes"/>
+        <itemref idref="chapter51" linear="yes"/>
+        <itemref idref="chapter52" linear="yes"/>
+        <itemref idref="chapter53" linear="yes"/>
+        <itemref idref="chapter54" linear="yes"/>
+        <itemref idref="chapter55" linear="yes"/>
+        <itemref idref="chapter56" linear="yes"/>
+        <itemref idref="chapter57" linear="yes"/>
+        <itemref idref="chapter58" linear="yes"/>
+        <itemref idref="chapter59" linear="yes"/>
+        <itemref idref="chapter60" linear="yes"/>
+        <itemref idref="chapter61" linear="yes"/>
+        <itemref idref="chapter62" linear="yes"/>
+        <itemref idref="chapter63" linear="yes"/>
+
+    </spine>
+    <guide>
+        <reference type="toc" title="封面" href="html/coverpage.html"></reference>
+    </guide>
+</package>
