@@ -1,3 +1,5 @@
+#calculate the url of "resuful api", for CRUD besides clone of "stock bucket" and "file object"
+
 #ak=xxxx
 #pk=xxxx
 host='bcs.duapp.com'
