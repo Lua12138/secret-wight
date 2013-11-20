@@ -6,6 +6,9 @@ import java.lang.reflect.ParameterizedType;
 public class GenericDaoImp<T, I extends Serializable> {
     protected Class<T> entityClass;
 
+/**
+* 只在填写了泛型参数的子类起有效. 返回第一个泛型类型类对象
+*/
     @SuppressWarnings("unchecked")
     public GenericDaoImp() {//Class<T> entityClass) {
         this.entityClass = (Class<T>) ((ParameterizedType) getClass().getGenericSuperclass()).getActualTypeArguments()[0];
