@@ -1,4 +1,5 @@
 #calculate the url of "resuful api", for CRUD besides clone of "stock bucket" and "file object"
+#python v3
 
 #ak=xxxx
 #pk=xxxx
