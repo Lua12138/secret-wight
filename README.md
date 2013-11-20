@@ -1,4 +1,4 @@
 secret-wight
 ============
 
-something maybe useful
+something probably useful
